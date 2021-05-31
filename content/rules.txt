@@ -1,0 +1,14 @@
+You have to put towers on the map.
+To kill enemies before they reach the end of the path.
+You will need to manage your money to install towers and improve them.
+If 5 enemies cross the end of the road, you lose.
+To lay towers you have to click on the holes in the grass or snow ....
+Press Space for the pause menu, and echap to quit.
+For the map you can make the path with . and B for the start, E for the End.
+You put # everywhere around the path and T for the tower.
+For example -->
+    ##T####T#T#####
+    #B.........................................E#
+    ####T###T#T####
+Tower --> 50 pieces.
+Sell Tower --> 25 pieces.
